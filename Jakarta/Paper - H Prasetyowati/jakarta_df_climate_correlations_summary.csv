@@ -1,0 +1,7 @@
+var_x,var_y,spearman_rho,p_value_desc,notes
+DF_incidence,precipitation,0.254,P<0.01,Monthly citywide correlation (2007-2018)
+DF_incidence,humidity,0.34,P<0.01,Monthly citywide correlation (2007-2018)
+DF_incidence,DMI,-0.459,P<0.01,Monthly citywide correlation (2007-2018)
+DF_incidence,Tmin,-0.181,P<0.05,Monthly citywide correlation (2007-2018)
+DMI,precipitation,-0.309,P<0.01,DMI vs rainfall
+DMI,humidity,-0.384,P<0.01,DMI vs humidity
